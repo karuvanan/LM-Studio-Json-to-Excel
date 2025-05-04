@@ -7,9 +7,9 @@ For Windows-only support, include a reference to "Microsoft Scripting Runtime"
 
 For Mac and Windows support, includes VBA-Dictionary
 
-Extract the VBA-JSON-2.3.1.zip
-
 Open the Microsoft Excel 2021
+
+Extract the VBA-JSON-2.3.1.zip
 
 Import JsonConverter.bas into your project (Open VBA Editor, Alt + F11 File > Import File)
 
